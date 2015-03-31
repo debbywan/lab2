@@ -1,0 +1,9 @@
+the "file_in.txt" is my input,because if I use"file.in",it just doesn't work
+and the"file_out.txt" is my output of the result
+
+in the"main.cpp"
+I use the class and read/write file
+however, I am in difficult to use set and get functions
+so I don't use it this time
+
+I use the ./a.out to execute  main.cpp
