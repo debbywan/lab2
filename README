@@ -10,9 +10,9 @@ so I don't use it this time
 I use the ./a.out to execute  main.cpp
 
 
-after revised: <br>
-i use the makefile so everything runs well <br>
+after revised: 
+i use the makefile so everything runs well 
 
-compile:make <br>
-execute:./main  <br>
-see the result in "file.out"  <br>
+compile:make 
+execute:./main  
+see the result in "file.out"  
